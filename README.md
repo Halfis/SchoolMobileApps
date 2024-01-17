@@ -6,7 +6,7 @@ This repository contains mobile applications developed during my Erasmus+ stay a
 
 1. [Project 7 - Saving Data: SharedPreferences](./SharedPreferences/)
 2. [Project 8 - Saving Data: Files](./Files/)
-3. [Final Project](./FinalProject/)
+3. [Final Project - Android Application](./FinalProject/)
 
 ## How to Use
 
